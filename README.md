@@ -1,4 +1,5 @@
-# Projeto desenvolvido durante o Curso de **JavaScript na Web: manipule o DOM com JavaScript** <br>
+# Projeto desenvolvido durante o Curso de 
+**JavaScript na Web: manipule o DOM com JavaScript**
 *Bootcamp Alura - Oracle*
 
 ## Ceep
@@ -9,15 +10,16 @@ Vale ressaltar que neste projeto como o intuito era treinar a componetizaçãa, 
 
 Para este projeto, instalei as dependencias do Node.js porque já estou familiarizada e particularmente gosto muito de trabalhar com ele, mas a princípio nesta aula, ele não é utilizado.
 
+![Tela principal](./Imagens/Ceep1.png)
+![Incluindo novas tarefas](./Imagens/Ceep2.png)
+![Sinalizando como tarefa concluída](./Imagens/Ceep3.png)
+![Deletando uma tarefa](./Imagens/Ceep4.png)
 ## Objetivos de Aprendizagem 
 - Aprender como funciona o DOM
 - Manipular o DOM para alterar, adicionar, remover e criar novos elementos na árvore de objetos
 - Trabalhar com componentização para facilitar a organização do projeto
 - Utilize o sistema de módulos do Javascript para proteger os arquivos
 
-
 ## Instrutor Felipe Nascimento
 [Linkedin](https://www.linkedin.com/in/felipedotcom/)
 [GitHub](https://github.com/felipedotcom)
-
-
