@@ -1,4 +1,5 @@
-# Projeto desenvolvido durante o Curso de **JavaScript na Web: manipule o DOM com JavaScript** do bootcamp Alura - Oracle
+# Projeto desenvolvido durante o Curso de **JavaScript na Web: manipule o DOM com JavaScript** <br>
+*Bootcamp Alura - Oracle*
 
 ## Ceep
 
